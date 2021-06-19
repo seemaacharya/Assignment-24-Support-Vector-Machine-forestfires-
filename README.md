@@ -1,0 +1,1 @@
+# Assignment-24-Support-Vector-Machine-forestfires-
